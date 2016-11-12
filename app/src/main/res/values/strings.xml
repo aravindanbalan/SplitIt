@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Split Table</string>
+    <string name="split_bill_tab">Split Bill</string>
+    <string name="camera_scan_tab">Scan</string>
+    <string name="message">Message</string>
+    <string name="scan">Scan Code</string>
+    <string name="send_message">Text it!</string>
+    <string name="generate_code">Generate Code</string>
+    <string name="back">Back</string>
+    <string name="paypalme">paypal.me/</string>
+    <string name="first_time_description_label">Sign in using your PayPal.Me handle</string>
+    <string name="split_bill_description_label">Split your bill equally with your friends.</string>
+    <string name="share_code_description_label">Share this code with your friends.</string>
+    <string name="message_disclaimer_text_label">Carrier charges may apply.</string>
+    <string name="bill_amount_label">Total Bill amount</string>
+    <string name="friends_count_label">Share Among?</string>
+</resources>

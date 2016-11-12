@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!--definition of new color scheme-->
+    <color name="black_80">#CC000000</color>
+    <color name="black_75">#BF000000</color>
+    <color name="black_56">#8F000000</color>
+    <color name="black_32">#51000000</color>
+    <color name="black_24">#3D000000</color>
+    <color name="black_16">#28000000</color>
+    <color name="black_8">#14000000</color>
+    <color name="black_4">#0A000000</color>
+    <color name="black_2">#05000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_white">#FAFAFA</color>
+    <color name="white_90">#E5FFFFFF</color>
+    <color name="white_76">#C2FFFFFF</color>
+    <color name="white_72">#B7FFFFFF</color>
+    <color name="white_56">#8FFFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_24">#3DFFFFFF</color>
+    <color name="white_16">#28FFFFFF</color>
+    <color name="white_8">#14FFFFFF</color>
+    <color name="blue_dark">#007DB7</color>
+    <color name="blue_light">#009CDE</color>
+    <color name="lighter_blue">#14CEE7</color>
+    <color name="dropdown_blue">#143666</color>
+    <color name="green">#018065</color>
+    <color name="red">#F86363</color>
+    <color name="dark_red">#D20000</color>
+    <color name="pink">#FFC2C2</color>
+    <color name="yellow">#FFD03F</color>
+    <color name="orange">#FFFF8F1C</color>
+    <color name="black">#000000</color>
+    <color name="black_50">#7F7F7F</color>
+
+
+    <color name="grey_app_background">#FFEEF2F5</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.paypal.splittable.widgets.PaymentCodeCardController
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/paycode_container"
+        style="@style/PaymentCodeImageViewContainer"
+        android:layout_centerInParent="true">
+
+        <com.paypal.splittable.widgets.QRCodeImageView
+            android:id="@+id/qr_code"
+            android:visibility="gone"
+            style="@style/QRCodeImageView"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_code_description_label"
+        android:layout_marginTop="@dimen/margin_large"
+        android:layout_marginBottom="@dimen/margin_large"
+        android:gravity="center"
+        android:layout_above="@id/paycode_container"/>
+
+</com.paypal.splittable.widgets.PaymentCodeCardController>
